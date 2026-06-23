@@ -96,8 +96,8 @@ XRANGE banco.transferencias - +
 
 ## Evidencia
 
-![img.png](../doc/imagens/img.png)
-![img.png](../doc/imagens/img2.png)
+![img.png](doc/imagens/img.png)
+![img.png](doc/imagens/img2.png)
 
 ---
 
